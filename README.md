@@ -2,6 +2,11 @@
 
 An AI-powered fitness trainer using pose detection and feedback for workout guidance.
 
+## Supported Exercises
+- Squats
+- Push-ups
+- Bicep Curls
+- Lunges
 
 ##  Features
 
